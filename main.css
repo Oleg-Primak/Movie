@@ -387,4 +387,38 @@ body {
     .header__title {
         padding-top: 60px;
     }
+
+    .movies {
+        justify-content: space-evenly;   
+    }
+
+    .movies__item {
+        width: 170px;
+        margin: 4px;
+    }
+
+    .movie__cover_inner {
+        height: auto;
+    }
+
+    .slider {
+         width: 100%;
+    }
+
+    .button__prev {
+        left: 0%;
+    }
+
+    .button__next {
+        right: 0%;
+    }
+
+    .title{
+        padding-left: 0;
+        text-align: center;
+    }
+
+    .container-slider {
+        margin: 50px 0;
+    }
 }
