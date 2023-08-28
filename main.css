@@ -434,7 +434,7 @@ body {
     .button-close {
         position: fixed;
         top: 30px;
-        right: 30px;
+        right: 15px;
         font-size: 27px;
     }
 }
