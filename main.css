@@ -421,4 +421,20 @@ body {
     .container-slider {
         margin: 50px 0;
     }
+
+    .modal__card {
+        max-width: 94%;
+        flex-direction: column;
+    }
+
+    /* .modal__poster {
+        max-width: 240px;
+    } */
+
+    .button-close {
+        position: fixed;
+        top: 30px;
+        right: 30px;
+        font-size: 27px;
+    }
 }
