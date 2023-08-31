@@ -263,7 +263,7 @@ async function openWindow(id) {
           </button>
         </li>
       </ul>
-      <button class="button-close">&#10006;</button> 
+      <button class="button-close">&#10008;</button> 
   </div>  
     `
     const button = document.querySelector(".button-show");
