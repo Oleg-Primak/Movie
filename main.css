@@ -435,8 +435,8 @@ body {
         position: fixed;
         top: 30px;
         right: 15px;
-        font-size: 27px;
-        border-radius: 50px;
+        font-size: 20px;
+        border-radius: 100px;
         border: solid 2px #ffffff;
         background-color: #858585;
     }
